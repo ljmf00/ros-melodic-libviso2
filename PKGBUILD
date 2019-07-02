@@ -9,7 +9,7 @@ arch=('any')
 pkgrel=1
 license=('GPL')
 
-makedepends=('cmake' 'gcc-libs')
+makedepends=('cmake' 'gcc-libs' 'git')
 depends=('gcc-libs')
 
 _dir="viso2/libviso2"
